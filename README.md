@@ -14,7 +14,7 @@ Atualiza a cotação do dólar automaticamente usando a API do AwesomeAPI.
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript
 - API: [AwesomeAPI - Economia](https://docs.awesomeapi.com.br/api-de-moedas)
 
 ## 📷 Screenshot
